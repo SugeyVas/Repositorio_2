@@ -6,3 +6,6 @@
 
 #nuevo
 25
+
+#division 
+5/2
