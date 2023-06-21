@@ -3,3 +3,6 @@
 
 #INICIO
 1+10
+
+#nuevo
+25
