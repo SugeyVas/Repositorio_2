@@ -12,5 +12,6 @@ siyno
 #division 
 5/2
 
-
+#Raiz cuadrada
+sqrt(36)
 
